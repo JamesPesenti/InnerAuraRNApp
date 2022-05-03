@@ -1,1 +1,3 @@
 # InnerAuraRNApp
+
+React Native App
